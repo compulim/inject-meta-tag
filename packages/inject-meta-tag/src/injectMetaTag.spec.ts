@@ -1,5 +1,7 @@
 /** @jest-environment jsdom */
 
+/// <reference types="jest" />
+
 import injectMetaTag from './injectMetaTag';
 
 afterEach(() => {
