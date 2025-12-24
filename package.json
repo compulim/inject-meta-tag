@@ -1,5 +1,5 @@
 {
-  "name": "inject-meta-tag-root",
+  "name": "@compulim/inject-meta-tag-root",
   "version": "0.1.1-0",
   "description": "Injects <meta> tag into document head.",
   "private": true,
