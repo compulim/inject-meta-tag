@@ -19,7 +19,7 @@
   "author": "William Wong (https://github.com/compulim)",
   "license": "MIT",
   "localPeerDependencies": {
-    "inject-meta-tag": "^0.0.0-0"
+    "inject-meta-tag": "0.0.0-0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.28.5",
@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.28.5",
-    "inject-meta-tag": "^0.0.0-0"
+    "inject-meta-tag": "0.0.0-0"
   }
 }

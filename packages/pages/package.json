@@ -18,7 +18,7 @@
   "author": "William Wong (https://github.com/compulim)",
   "license": "MIT",
   "localPeerDependencies": {
-    "inject-meta-tag": "^0.0.0-0"
+    "inject-meta-tag": "0.0.0-0"
   },
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.8",
@@ -26,6 +26,6 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "inject-meta-tag": "^0.0.0-0"
+    "inject-meta-tag": "0.0.0-0"
   }
 }
