@@ -1,4 +1,5 @@
 {
+  "testEnvironment": "@happy-dom/jest-environment",
   "testPathIgnorePatterns": [
     "/__setup__/",
     "/lib/",
