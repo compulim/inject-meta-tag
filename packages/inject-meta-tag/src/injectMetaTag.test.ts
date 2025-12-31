@@ -1,8 +1,6 @@
-/** @jest-environment jsdom */
-
-/// <reference types="jest" />
-
-import injectMetaTag from './injectMetaTag';
+import { afterEach, beforeEach, describe, test } from 'node:test';
+import { expect } from 'expect';
+import injectMetaTag from './injectMetaTag.ts';
 
 afterEach(() => {
   document.documentElement.innerHTML = '';
